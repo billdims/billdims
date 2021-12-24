@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @billdims.
-- 👀 I’m interested in coding Discord Bots.
-- 🌱 I’m currently learning coding in Python
+hi
