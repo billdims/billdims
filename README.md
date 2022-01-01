@@ -8,4 +8,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=billdims&layout=compact)](https://github.com/billdims/github-readme-stats)
 
 ## Recent Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=billdims&repo=Cookie)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=billdims&repo=Cookie&repo=Mercury)](https://github.com/anuraghazra/github-readme-stats)
