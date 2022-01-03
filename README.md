@@ -1,6 +1,9 @@
 - Python beginner
 - Discord Bot Developer
 
+## Contact Me
+- Discord: billdims#2217
+
 ## Progress / Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=billdims&count_private=False)](https://github.com/billdims/github-readme-stats)
 
