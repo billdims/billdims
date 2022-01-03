@@ -1,7 +1,7 @@
 - Python beginner
 - Discord Bot Developer
 
-## Progress
+## Progress / Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=billdims&count_private=False)](https://github.com/billdims/github-readme-stats)
 
 ## Languages
