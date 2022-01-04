@@ -12,5 +12,7 @@
 
 ## Recent Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=billdims&repo=Cookie)](https://github.com/billdims/github-readme-stats)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=billdims&repo=Mercury)](https://github.com/billdims/github-readme-stats)
+ 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=billdims&repo=StatusLooping)](https://github.com/billdims/github-readme-stats)
