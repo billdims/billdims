@@ -5,7 +5,7 @@
 - Discord: billdims#2217
 
 ## Progress / Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=billdims&count_private=True)](https://github.com/billdims/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=billdims&count_private=False)](https://github.com/billdims/github-readme-stats)
 
 ## Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=billdims&layout=compact)](https://github.com/billdims/github-readme-stats)
