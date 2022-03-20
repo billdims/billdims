@@ -1,4 +1,4 @@
-- Python beginner
+- 7 Months Python
 - Discord Bot Developer
 
 ## Contact Me
