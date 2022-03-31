@@ -1,4 +1,5 @@
 - 7 Months Python
+- 1 Week Java
 - Discord Bot Developer
 
 ## Contact Me
