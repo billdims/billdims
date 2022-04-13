@@ -1,6 +1,8 @@
-- 7 Months Python
-- 1 Week Java
-- Discord Bot Developer
+- Python
+- Java
+- CSS
+- HTML
+- DiscordPy
 
 ## Contact Me
 - Discord: billdims#2217
