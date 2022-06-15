@@ -1,8 +1,6 @@
 - Python
-- Java
 - CSS
 - HTML
-- DiscordPy
 
 ## Contact Me
 - Discord: billdims#2217
